@@ -11,8 +11,11 @@ This library only works on 1.20.5+
 
 ## Usage
 Usage is simple. First, you just need to store the inventory and specify an ID for the storage. Here's an example of that:
-`function store_inventory:store {id:1}`
+
+`function store_inventory:store {id:1}`.
+
 Then using the same ID, you can restore the inventory at a later time.
+
 `function store_inventory:restore {id:1}`
 
 ## Experimental
