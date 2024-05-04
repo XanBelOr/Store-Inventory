@@ -1,0 +1,2 @@
+execute store result storage store:inventory temp.Inventory[-1].Slot int 1 run scoreboard players remove #si.slot temp 9
+function store_inventory:zzzinternal/set_item/inventory with storage store:inventory temp.Inventory[-1]
