@@ -20,7 +20,7 @@ Then using the same ID, you can restore the inventory at a later time.
 
 ## Experimental
 This library is currently in **beta**, meaning there may be bugs or unintended side effects when using this library. Use with caution, and please
-dm "xanbelor" on discord to report any issues or ping me on the [Minecraft Commands Server](https://discord.gg/QAFXFtZ).
+DM the user "xanbelor" on discord to report any issues or ping me on the [Minecraft Commands Server](https://discord.gg/QAFXFtZ).
 
 ## Thanks
 Big thanks to vdvman1 on the commands discord for helping me find out how to use inline loot tables to restore items from a storage!
