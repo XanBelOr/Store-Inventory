@@ -1,0 +1,7 @@
+{
+	"pack": {
+		"pack_format": 26,
+		"description": "Library for storing inventories for later use.",
+		"supported_formats": [18,41]
+	}
+}
